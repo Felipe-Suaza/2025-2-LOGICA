@@ -1,1 +1,3 @@
 Segundo archivo en notas
+Cambios de acuerdo como lo menciona el documento en la parte de editar
+4.2
