@@ -2,4 +2,4 @@ Segundo archivo en notas
 COMMIT
 practica de edicion de archivos y actualizaciones
 COMMIT 2
-Hacer el 4.6 mantener el repositorio actualizado consejos ver tutoriales
+Hacer el punto 4.6 mantener el repositorio actualizado consejos ver tutoriales para aprender mas sobre esta aplicacion
